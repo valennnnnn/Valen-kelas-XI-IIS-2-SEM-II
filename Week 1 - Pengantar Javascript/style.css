@@ -1,0 +1,51 @@
+.btnClose{
+    background-color: red;
+    width: 15vw;
+    height: 7vh;
+    color : white;
+    font-size: 1.5rem;
+    border: none;
+    font-weight:bold;
+    font-family: "Poppins";
+    border-radius: 3vh;
+    margin: 5vh;
+}
+
+.btnWarn{
+    background-color: green;
+    width: 15vw;
+    height: 7vh;
+    color : black;
+    font-size: 1.5rem;
+    border: none;
+    font-weight:bold;
+    font-family: "Poppins";
+    border-radius: 3vh;
+    margin: 5vh;
+}
+
+.btnText{
+    background-color: green;
+    width: 15vw;
+    height: 7vh;
+    color : black;
+    font-size: 1.5rem;
+    border: none;
+    font-weight:bold;
+    font-family: "Poppins";
+    border-radius: 3vh;
+    margin: 5vh;
+}
+
+.btnConsole{
+    background-color: black;
+    width: 15vw;
+    height: 7vh;
+    color : white;
+    font-size: 1.5rem;
+    border: none;
+    font-weight:bold;
+    font-family: "Poppins";
+    border-radius: 3vh;
+    margin: 5vh;
+}

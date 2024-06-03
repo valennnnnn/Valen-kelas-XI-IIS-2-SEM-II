@@ -1,0 +1,42 @@
+.container{
+    display: grid;
+}
+.container-button{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+#angka1,#angka2{
+    margin-top: 1rem;
+    margin-left:5rem ;
+    margin-right:5rem ;
+    border: 0.1rem solid black;
+    resize: none;
+    height: 5rem;
+    border-radius: 2rem;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Poppins";
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 5);
+    font-size: 3rem;
+}
+
+#hasil{
+    font-size: 3rem;
+    text-align: center;
+    font-family: "Poppins";
+    font-weight: bold;
+}
+
+#tambah,#kurang,#kali,#bagi{
+    margin-top: 2rem;
+    width: 5rem;
+    height: 5rem;
+    margin-left: 2rem;
+    font-weight: 400;
+    font-size: 3rem;
+    border-radius: 2rem;
+    font-family: "Poppins";
+    border: none;
+    background-color: antiquewhite;
+}

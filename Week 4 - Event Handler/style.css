@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.box{
+    width: 15rem;
+    height: 15rem;
+    background-color: antiquewhite;
+    transition: 10s ease-in-out;
+}
+
+.box:hover{
+    border-radius: 15rem;
+    background-color: white;
+}
+
+.lightmode{
+    transition: 1,5s ease-in-out;
+}
